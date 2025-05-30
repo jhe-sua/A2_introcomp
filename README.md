@@ -8,4 +8,6 @@ def questao_1(database):
     #código com a implementação da solução da questão 1
     return resultado
 ```
+- Retornar um dataframe quando for uma tabela
+- Um dos graficos pode ser um histograma, por exemplo da quantidade de de bilhetes ao longo de um mes por exemplo
     
