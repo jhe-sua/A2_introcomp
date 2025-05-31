@@ -10,4 +10,3 @@ def questao_1(database):
 ```
 - Retornar um dataframe quando for uma tabela
 - Um dos graficos pode ser um histograma, por exemplo da quantidade de de bilhetes ao longo de um mes por exemplo
-    
