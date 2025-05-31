@@ -10,3 +10,4 @@ def questao_1(database):
 ```
 - Retornar um dataframe quando for uma tabela
 - Um dos graficos pode ser um histograma, por exemplo da quantidade de de bilhetes ao longo de um mes por exemplo
+- Deve existir uma variavel chamada AUTORES = ['Nome1', 'Nome2'], onde Nome1 e Nome2 devem ser substituídos pelos nomes dos integrantes da dupla
