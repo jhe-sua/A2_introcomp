@@ -1,4 +1,5 @@
 # Lembretes
+Link overleaf: https://www.overleaf.com/6681779843nyvyggzhvgmc#d4e310
 
 - Cada função deve ser independente, por exemplo a questão "N" não pode utilizar as funções anteriores a ela.
 - Para cada questão listada abaixo, uma função deve existir no arquivo fonte a2.py, ou a2.ipynb que recebe como argumento o nome do database. O nomeda função deve ser o mesmo nome da questão, por exemplo:
